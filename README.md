@@ -28,7 +28,6 @@ HealthLink is a web application developed with Python and Django, designed to si
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
-- Other languages and tools used in the project.
 
 ### Additional Tools
 
