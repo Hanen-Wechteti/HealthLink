@@ -33,7 +33,7 @@ HealthLink is a web application developed with Python and Django, designed to si
 
 - [Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [PostgreSQL](https://www.postgresql.org/) (or other database used)
+- [PostgreSQL](https://www.postgresql.org/) 
 
 
 <!-- ## 📌 Current Features -->
