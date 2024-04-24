@@ -30,14 +30,6 @@ Nurse-App is a web application developed with Python and Django, designed to sim
 - Python
 - Django 
 
-## 📌 Usage
-
-1. Clone the repository: `git clone https://github.com/your_username/nurse_project.git`
-2. Navigate to the project directory: `cd nurse_project`
-3. Install dependencies: `npm install` 
-4. Launch the application: `npm start` 
-
-
 ### Languages and Tools
 
 - [Python](https://www.python.org/)
