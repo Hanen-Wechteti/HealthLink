@@ -1,4 +1,4 @@
-# 🛠 In Development
+## In Development
 
 # 🩺 HealthLink: Nursing Management Platform
 
@@ -27,9 +27,8 @@ Nurse-App is a web application developed with Python and Django, designed to sim
 
 ## 📌 Dependencies
 
-- Python (version X.X)
-- Django (version X.X)
-- Other Django dependencies required for the project
+- Python
+- Django 
 
 ## 📌 Usage
 
