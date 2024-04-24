@@ -1,6 +1,6 @@
 ## In Development
 
-# 🩺 HealthLink: Nursing Management Platform
+## 🩺 HealthLink: Nursing Management Platform
 
 ## 📌 Project Description
 
