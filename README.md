@@ -1,12 +1,12 @@
-## In Development
+### In Development
 
 ## 🩺 HealthLink: Nursing Management Platform
 
-## 📌 Project Description
+### Project Description
 
-Nurse-App is a web application developed with Python and Django, designed to simplify task and information management for independent nurses.
+HealthLink is a web application developed with Python and Django, designed to simplify task and information management for independent nurses.
 
-## 📌 Roadmap / List of Future Features
+###  Roadmap / List of Future Features
 1. Nurse Account Creation
    - A nurse can create an account with the following information:
      - Name
@@ -23,12 +23,6 @@ Nurse-App is a web application developed with Python and Django, designed to sim
 
 4. List of Nurses
    - A page displaying all nurses with search and filter functionalities.
-
-
-## 📌 Dependencies
-
-- Python
-- Django 
 
 ### Languages and Tools
 
