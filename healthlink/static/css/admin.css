@@ -14,7 +14,7 @@ a:visited {
 }
 
 div.breadcrumbs {
-  background: #30caa0;
+  background: #30a9ca;
   color: #10284e;
 }
 
@@ -23,7 +23,7 @@ div.breadcrumbs a {
 }
 
 .module h2, .module caption, .inline-group h2 {
-  background: #30caa0;
+  background: #30a6ca;
 }
 
 .button, input[type=submit], input[type=button], .submit-row input, a.button {

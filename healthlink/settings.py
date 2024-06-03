@@ -34,12 +34,14 @@ INSTALLED_APPS = [
     'pages.apps.PagesConfig',
     'tasks.apps.TasksConfig',
     'nurses.apps.NursesConfig',
+    'accounts.apps.accountsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.humanize',
 ]
 
 MIDDLEWARE = [
@@ -126,7 +128,9 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     BASE_DIR / 'healthlink/static',
 ]
-
+# Media Folder Settings
+MEDIA_ROOT = BASE_DIR / 'media'
+MEDIA_URL = '/media/'
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
